@@ -92,4 +92,4 @@ def get_scatter_plot(entered_site, payload_range):
 
 # Run the app
 if __name__ == '__main__':
-    app.run(debug=True, port=8051)
+    app.run()
